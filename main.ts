@@ -11,7 +11,7 @@ const REPO_ROOT: string = dirname(fileURLToPath(import.meta.url));
 const OUT_DIR: string = "/output";
 
 const POST_TEXT: string =
-  "Stop scrolling. If you care about AI agents, crypto alpha & Web3 tooling, @crisxai5 is a must-follow.\n" +
+  "Your feed is lying to you — the real AI agent alpha lives on @crisxai5, follow before everyone else does.\n" +
   "\n" +
   "Sharp, practical takes. No noise, just signal on AI x crypto.\n" +
   "\n" +
